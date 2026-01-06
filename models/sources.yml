@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    database: RAWDB
+    schema: RAW
+    tables:
+      - name: raw_customers
